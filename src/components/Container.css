@@ -1,0 +1,5 @@
+.row {
+  display: flex;
+  min-width: 375px;
+}
+
